@@ -1,6 +1,6 @@
 package practice.level1;
 
-public class task4
+public class task04
 {
     public static void main(String[] args)
     {

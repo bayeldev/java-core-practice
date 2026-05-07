@@ -1,6 +1,6 @@
 package practice.level2;
 
-public class task9 {
+public class task09 {
     public static void main(String[] args) {
    /*     int num = 42;
         String a = "" + num;

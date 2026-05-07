@@ -1,7 +1,7 @@
 package practice.level1;
 
 
-public class task8{
+public class task08 {
     public static void main(String[] args)
     {
 

@@ -1,6 +1,6 @@
 package practice.level2;
 
-public class task3 {
+public class task03 {
     public static void main(String[] args) {
         int prizes =15,teams=4;
         int total = prizes / teams;
