@@ -1,0 +1,9 @@
+package practice.level02;
+
+
+public class task01 {
+    public static void main(String[] args) {
+        int heroAge = 25;
+        System.out.println(heroAge);
+    }
+}

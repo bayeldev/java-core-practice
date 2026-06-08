@@ -1,0 +1,10 @@
+package practice.level01;
+
+
+public class task06 {
+    public  static void main(String[] args) {
+        int currentYear = 2025;
+        int projectAge = currentYear-2019;
+        System.out.println(projectAge);
+    }
+}

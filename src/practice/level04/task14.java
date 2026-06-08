@@ -1,0 +1,18 @@
+package practice.level04;
+
+public class task14 {
+    public static void main(String[] args) {
+        int[] productRatings = {3, -2, 7, -5, 8, 0};
+
+        for(int rating: productRatings) {
+
+            if(rating<0) {
+                continue;
+
+
+            }
+            System.out.println(rating);
+
+        }
+    }
+}
