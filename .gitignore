@@ -30,3 +30,27 @@ bin/
 .DS_Store
 /.idea/
 /.idea/
+
+.idea/
+out/
+*.iml
+
+*.class
+
+# Временные файлы
+*.log
+
+# Твои тестовые файлы
+*.bin
+*.jpg
+*.txt
+
+.idea/
+out/
+*.iml
+
+*.class
+*.log
+*.bin
+*.jpg
+*.txt
